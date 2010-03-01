@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>  
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <link href="Wholesale_files/www_v3_1_style.css" media="screen" rel="stylesheet" type="text/css">    
+     <title>Wholesale – Buy China Wholesale Products from Chinese Wholesalers and Factories on BeeBuyer.com</title>   
+      <script src="Wholesale_files/jquery-1.js" type="text/javascript"></script>
+      <script src="Wholesale_files/easyslider.js" type="text/javascript"></script>
+       <script type="text/javascript">
+		jQuery(document).ready(function(){
+			jQuery("#index_ad_images").contentSlider({
+				fx: 'fade', 
+				auto: true,			
+				continuous: true,
+				speed: 2000,
+				pause: 8000
+			});
+		});	
+	</script>
+  </head>
+<body>
+<div class="fl" style="padding: 10px 0px 0px 8px; width: 795px;">  
+    <ul class="index_num">
+        <li><a class="selected_color" href="javascript:;"  id="li_1">1</a></li>
+        <li><a class="" href="javascript:;"  id="li_2">2</a></li>
+        <li><a class="" href="javascript:;"  id="li_3">3</a></li>
+        <li><a class="" href="javascript:;"  id="li_4">4</a></li>
+    </ul>
+
+    <div id="index_ad_images" > 
+        <div style="left: 0px;" class="index_ad_content" >
+            <div class="one">
+            <a href="http://www.beebuyer.com/categories/list/44-Baby-Kids" class="fl"><img src="Wholesale_files/index_ad_1.jpg"></a>
+            <div class="pro_s fl">
+                <a href="http://www.beebuyer.com/product/show/1b8669bcab3b4edebe78a2d2fc581a43-wholesale-Kid-s-Costume-Frog-Style-Cloak"><img src="Wholesale_files/index_ad_s_1.jpg"></a>
+                <a href="http://www.beebuyer.com/product/show/d98f46c321b94e7f9f6d7b960a307adc-wholesale-IQ-Puzzle-Wooden-Toy-Brain-Teasers-12-sister-Free-Standard-Shipping" class="mrt10"><img src="Wholesale_files/index_ad_s_2.jpg"></a>
+            </div>
+        </div>
+        <div class="one">
+            <a href="http://www.beebuyer.com/categories/list/1-Apparel" class="fl"><img src="Wholesale_files/index_ad_2.jpg"></a>
+            <div class="pro_s fl">
+                <a href="http://www.beebuyer.com/product/show/fa758fe9578a4669ae466fbcf5a8f7c9-wholesale-Free-shipping-New-Simple-wedding-dresses-Strapless-Draped-Taffeta-Wedding-Dress-weddings"><img src="Wholesale_files/index_ad_s_3.jpg"></a>
+                <a href="http://www.beebuyer.com/product/show/9fa4a13dc8b74e40bbda3c9585e03c3c-wholesale-Sexy-Style-ivory-Ball-Gown-spaghetti-straps-Satin-Wedding-Dresses-Bridal-Wedding-Dress-ballgownwd0034-" class="mrt10"><img src="Wholesale_files/index_ad_s_4.jpg"></a>
+            </div>
+        </div>
+        <div class="one">
+            <a href="http://www.beebuyer.com/categories/list/265-Chinese-Elements" class="fl"><img src="Wholesale_files/index_ad_3.jpg"></a>
+            <div class="pro_s fl">
+                <a href="http://www.beebuyer.com/product/show/55ba73ee78764b6da44010c36d915886-wholesale-Chinese-Decorative-Knot-Opera-Masks"><img src="Wholesale_files/index_ad_s_5.jpg"></a>
+                <a href="http://www.beebuyer.com/product/show/3bb102e5320c471795315215d798faac-wholesale-Classic-Chinese-Style-Brocade-Pouch-Bag-Start-From-10-Units-Free-Shipping" class="mrt10"><img src="Wholesale_files/index_ad_s_6.jpg"></a>
+            </div>
+        </div>
+        <div class="one">
+            <a href="http://www.beebuyer.com/categories/list/211-Office-Supplies" class="fl"><img src="Wholesale_files/index_ad_4.jpg"></a>
+            <div class="pro_s fl">
+                <a href="http://www.beebuyer.com/product/show/b3826dea63c34f76b21c300b1b9bb146-wholesale-Projeton-system-SV-60K"><img src="Wholesale_files/index_ad_s_7.jpg"></a>
+                <a href="http://www.beebuyer.com/product/show/679763ef69be4f0ba501699dd6b79c37-wholesale-USB-High-precision-optical-sensor-Mouse" class="mrt10"><img src="Wholesale_files/index_ad_s_8.jpg"></a>
+            </div>
+        </div>
+    </div>
+    </div>
+    
+</body></html>
