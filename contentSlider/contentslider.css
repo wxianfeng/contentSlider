@@ -1,0 +1,60 @@
+@charset "utf-8";
+/*----------全局----------*/	
+*{ margin:0px;
+   padding:0px;
+   font-family:Arial, Helvetica, sans-serif;}
+
+li{list-style: none;
+   padding-left: 0px;
+}
+div.content {
+    clear:both;
+}
+body{background:#FFF}
+
+a{ text-decoration:none;}
+
+a:hover{ text-decoration:underline;color:#c70000;}
+
+img{ border:0px;}
+
+/*----------公用-----------*/
+.fl{ float:left;}
+.mrt10{ margin-top:10px;}
+
+.pro_s a{
+    display:block;
+    padding-left:8px;}
+.index_num{
+    z-index:100;
+    margin-top:277px;
+    margin-left:461px;
+    position:absolute;}
+.index_num li{ float:left; }
+.index_num li a{
+    width:25px;
+    height:25px;
+    display:block;
+    font-size:12px;
+    background:#FFF;
+    line-height:25px;
+    text-align:center;
+    margin-right:10px;
+    border:1px solid #ccc;}
+.index_num li a:hover{ 
+    border:1px solid #EFEFEF;
+    background:#AAA; color:#FFF}
+.index_num li a.selected_color {
+    background:red;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
